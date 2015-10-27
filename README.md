@@ -1,5 +1,5 @@
 # docker-php-5.6-zray
-Uses official PHP 5.6 Docker image (Apache) and adds Z-Ray functionality (Technical Preview).
+Uses official PHP 5.6 Docker image (Apache) and adds Z-Ray functionality (Technology Preview).
 See http://www.zend.com/en/products/z-ray/z-ray-preview to get more info.
 
 ## Building
